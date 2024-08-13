@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marija</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
-- 🌱 I’m currently learning **ts, tailwind**
+- 🌱 I’m currently learning **TypeScript, Tailwind**
 
 - 📫 How to reach me **marijacutura6@gmail.com**
 
-- ⚡ Fun fact **BiH**
+- ⚡ Fun  ****
 
-<h3 align="left">Skibidi</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
