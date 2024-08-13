@@ -7,7 +7,7 @@ v<h1 align="center">Hi 👋, I'm Marija</h1>
 
 - ⚡ Fun fact **BiH**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Skibidi</h3>
 <p align="left">
 </p>
 
